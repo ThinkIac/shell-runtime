@@ -1,0 +1,9 @@
+{
+  "name": "shell-runtime",
+  "private": true,
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThinkIac/shell-runtime.git"
+  }
+}
